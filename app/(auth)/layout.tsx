@@ -18,7 +18,7 @@ const AuthLayout = ({ children }: { children: React.ReactNode }) => {
         <div className="relative z-10">
           <div className="animate-fade-in">
             <h1 className="text-5xl font-bold mb-6 bg-clip-text text-transparent bg-gradient-to-r from-white to-indigo-200">
-              Welcome to Maaz's Discord Clone
+              Welcome to Maaz&apos;s Discord Clone
             </h1>
             <p className="text-xl mb-12 text-indigo-100">
               Your new home for community, collaboration, and communication.
@@ -42,7 +42,7 @@ const AuthLayout = ({ children }: { children: React.ReactNode }) => {
         </div>
 
         <footer className="text-sm text-indigo-200 relative z-10">
-          © 2024 Maaz's Discord Clone. All rights reserved.
+          © 2024 Maaz&apos;s Discord Clone. All rights reserved.
         </footer>
       </div>
 
